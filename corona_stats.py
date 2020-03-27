@@ -9,8 +9,11 @@ def getStats():
     headers_json = json.loads(response.text)
 
     today = datetime.datetime.today().strftime('%Y%m%d')
+    today_format = datetime.datetime.today().strftime('%Y-%m-%d')
+    yesterday = (datetime.datetime.today() - datetime.timedelta(days=1)).strftime('%Y%m%d')
+    yesterday_format = (datetime.datetime.today() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
 
-    string = f"Results for {datetime.datetime.today().strftime('%Y-%m-%d')}\n"
+    string = f""
 
     for item in headers_json:
 
@@ -25,8 +28,27 @@ def getStats():
                 deaths = 0
             else:
                 deaths = item['death']
-            death_increase = item['deathIncrease']
 
-            string += f"-----{item['state']}-----\npositive cases: {pos_cases}\nhospitalizations: {hosp_cases}\ndeaths: {deaths}\n\n"
+            string += f"Today's results ({today_format})\n-----{item['state']}-----\npositive cases: {pos_cases}\nhospitalizations: {hosp_cases}\ndeaths: {deaths}\n\n"
+
+            if str(item['state']) == "WY":
+                break
+
+        else:
+
+            if str(item['date']) == yesterday:
+
+                pos_cases = item['positive']
+                if str(item['death']) == "None":
+                    deaths = 0
+                else:
+                    deaths = item['death']
+
+                string += f"Yesterday's results ({yesterday_format}):\n-----{item['state']}-----\npositive cases: {pos_cases}\ndeaths: {deaths}\n\n"
+
+                if str(item['state']) == "WY":
+                    break
 
     return string
+
+print(getStats())
