@@ -21,7 +21,7 @@ def getStats():
 
             pos_cases = item['positive']
             if str(item['hospitalized']) == "None":
-                hosp_cases = 0
+                hosp_cases = "Data not available"
             else:
                 hosp_cases = item['hospitalized']
             if str(item['death']) == "None":
@@ -29,7 +29,13 @@ def getStats():
             else:
                 deaths = item['death']
 
-            string += f"Today's results ({today_format})\n-----{item['state']}-----\npositive cases: {pos_cases}\nhospitalizations: {hosp_cases}\ndeaths: {deaths}\n\n"
+            string += f"""
+Today's results ({today_format}):
+-----{item['state']}-----
+positive cases: {pos_cases}
+hospitalized: {hosp_cases}
+deaths: {deaths}
+"""
 
             if str(item['state']) == "WY":
                 break
@@ -39,12 +45,22 @@ def getStats():
             if str(item['date']) == yesterday:
 
                 pos_cases = item['positive']
+                if str(item['hospitalized']) == "None":
+                    hosp_cases = 0
+                else:
+                    hosp_cases = item['hospitalized']
                 if str(item['death']) == "None":
                     deaths = 0
                 else:
                     deaths = item['death']
 
-                string += f"Yesterday's results ({yesterday_format}):\n-----{item['state']}-----\npositive cases: {pos_cases}\ndeaths: {deaths}\n\n"
+                string += f"""
+Yesterday's results ({yesterday_format}):
+-----{item['state']}-----
+positive cases: {pos_cases}
+hospitalized: {hosp_cases}
+deaths: {deaths}\n
+"""
 
                 if str(item['state']) == "WY":
                     break
