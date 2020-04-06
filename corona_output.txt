@@ -1,0 +1,336 @@
+
+Today's results (2020-04-05):
+-----AK-----
+positive cases: 185
+hospitalized: 20
+deaths: 6
+
+Today's results (2020-04-05):
+-----AL-----
+positive cases: 1796
+hospitalized: 231
+deaths: 45
+
+Today's results (2020-04-05):
+-----AR-----
+positive cases: 830
+hospitalized: 130
+deaths: 16
+
+Today's results (2020-04-05):
+-----AS-----
+positive cases: 0
+hospitalized: Data not available
+deaths: 0
+
+Today's results (2020-04-05):
+-----AZ-----
+positive cases: 2269
+hospitalized: 310
+deaths: 64
+
+Today's results (2020-04-05):
+-----CA-----
+positive cases: 13438
+hospitalized: Data not available
+deaths: 319
+
+Today's results (2020-04-05):
+-----CO-----
+positive cases: 4565
+hospitalized: 875
+deaths: 126
+
+Today's results (2020-04-05):
+-----CT-----
+positive cases: 5675
+hospitalized: Data not available
+deaths: 189
+
+Today's results (2020-04-05):
+-----DC-----
+positive cases: 998
+hospitalized: Data not available
+deaths: 22
+
+Today's results (2020-04-05):
+-----DE-----
+positive cases: 673
+hospitalized: Data not available
+deaths: 14
+
+Today's results (2020-04-05):
+-----FL-----
+positive cases: 12151
+hospitalized: 1572
+deaths: 218
+
+Today's results (2020-04-05):
+-----GA-----
+positive cases: 6647
+hospitalized: 1283
+deaths: 211
+
+Today's results (2020-04-05):
+-----GU-----
+positive cases: 112
+hospitalized: 31
+deaths: 4
+
+Today's results (2020-04-05):
+-----HI-----
+positive cases: 351
+hospitalized: 19
+deaths: 4
+
+Today's results (2020-04-05):
+-----IA-----
+positive cases: 868
+hospitalized: 165
+deaths: 22
+
+Today's results (2020-04-05):
+-----ID-----
+positive cases: 1077
+hospitalized: 66
+deaths: 10
+
+Today's results (2020-04-05):
+-----IL-----
+positive cases: 11256
+hospitalized: Data not available
+deaths: 274
+
+Today's results (2020-04-05):
+-----IN-----
+positive cases: 4411
+hospitalized: Data not available
+deaths: 127
+
+Today's results (2020-04-05):
+-----KS-----
+positive cases: 747
+hospitalized: 183
+deaths: 22
+
+Today's results (2020-04-05):
+-----KY-----
+positive cases: 917
+hospitalized: Data not available
+deaths: 40
+
+Today's results (2020-04-05):
+-----LA-----
+positive cases: 13010
+hospitalized: Data not available
+deaths: 477
+
+Today's results (2020-04-05):
+-----MA-----
+positive cases: 12500
+hospitalized: 1145
+deaths: 231
+
+Today's results (2020-04-05):
+-----MD-----
+positive cases: 3609
+hospitalized: 936
+deaths: 67
+
+Today's results (2020-04-05):
+-----ME-----
+positive cases: 470
+hospitalized: 86
+deaths: 10
+
+Today's results (2020-04-05):
+-----MI-----
+positive cases: 15718
+hospitalized: Data not available
+deaths: 617
+
+Today's results (2020-04-05):
+-----MN-----
+positive cases: 935
+hospitalized: 202
+deaths: 29
+
+Today's results (2020-04-05):
+-----MO-----
+positive cases: 2367
+hospitalized: Data not available
+deaths: 34
+
+Today's results (2020-04-05):
+-----MP-----
+positive cases: 8
+hospitalized: Data not available
+deaths: 1
+
+Today's results (2020-04-05):
+-----MS-----
+positive cases: 1638
+hospitalized: 475
+deaths: 43
+
+Today's results (2020-04-05):
+-----MT-----
+positive cases: 286
+hospitalized: 24
+deaths: 6
+
+Today's results (2020-04-05):
+-----NC-----
+positive cases: 2585
+hospitalized: Data not available
+deaths: 31
+
+Today's results (2020-04-05):
+-----ND-----
+positive cases: 207
+hospitalized: 31
+deaths: 3
+
+Today's results (2020-04-05):
+-----NE-----
+positive cases: 363
+hospitalized: Data not available
+deaths: 8
+
+Today's results (2020-04-05):
+-----NH-----
+positive cases: 621
+hospitalized: 86
+deaths: 9
+
+Today's results (2020-04-05):
+-----NJ-----
+positive cases: 37505
+hospitalized: Data not available
+deaths: 917
+
+Today's results (2020-04-05):
+-----NM-----
+positive cases: 543
+hospitalized: Data not available
+deaths: 11
+
+Today's results (2020-04-05):
+-----NV-----
+positive cases: 1836
+hospitalized: Data not available
+deaths: 46
+
+Today's results (2020-04-05):
+-----NY-----
+positive cases: 122031
+hospitalized: 28092
+deaths: 4159
+
+Today's results (2020-04-05):
+-----OH-----
+positive cases: 4043
+hospitalized: 1104
+deaths: 119
+
+Today's results (2020-04-05):
+-----OK-----
+positive cases: 1252
+hospitalized: 330
+deaths: 46
+
+Today's results (2020-04-05):
+-----OR-----
+positive cases: 999
+hospitalized: 239
+deaths: 26
+
+Today's results (2020-04-05):
+-----PA-----
+positive cases: 11510
+hospitalized: 1072
+deaths: 150
+
+Today's results (2020-04-05):
+-----PR-----
+positive cases: 475
+hospitalized: Data not available
+deaths: 20
+
+Today's results (2020-04-05):
+-----RI-----
+positive cases: 922
+hospitalized: Data not available
+deaths: 25
+
+Today's results (2020-04-05):
+-----SC-----
+positive cases: 2049
+hospitalized: 241
+deaths: 44
+
+Today's results (2020-04-05):
+-----SD-----
+positive cases: 240
+hospitalized: 22
+deaths: 2
+
+Today's results (2020-04-05):
+-----TN-----
+positive cases: 3633
+hospitalized: 328
+deaths: 44
+
+Today's results (2020-04-05):
+-----TX-----
+positive cases: 6812
+hospitalized: 827
+deaths: 127
+
+Today's results (2020-04-05):
+-----UT-----
+positive cases: 1605
+hospitalized: 124
+deaths: 8
+
+Today's results (2020-04-05):
+-----VA-----
+positive cases: 2637
+hospitalized: 431
+deaths: 51
+
+Today's results (2020-04-05):
+-----VI-----
+positive cases: 42
+hospitalized: Data not available
+deaths: 1
+
+Today's results (2020-04-05):
+-----VT-----
+positive cases: 512
+hospitalized: 45
+deaths: 22
+
+Today's results (2020-04-05):
+-----WA-----
+positive cases: 7591
+hospitalized: Data not available
+deaths: 310
+
+Today's results (2020-04-05):
+-----WI-----
+positive cases: 2267
+hospitalized: 624
+deaths: 68
+
+Today's results (2020-04-05):
+-----WV-----
+positive cases: 324
+hospitalized: Data not available
+deaths: 3
+
+Today's results (2020-04-05):
+-----WY-----
+positive cases: 197
+hospitalized: 23
+deaths: 0
